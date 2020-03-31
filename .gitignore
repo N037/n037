@@ -1,0 +1,34 @@
+### IDE - VSCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon debe terminar con dos \r
+Icon
+
+# Thumbnails
+._*
+
+# Archivos que podrían aparecer en el directorio raíz de un volumen
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directorios potencialmente creados en remote AFP compartido
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
